@@ -1,0 +1,16 @@
+ieee stands-float values stored
+
+x and y or z
+{
+    if(do-a)
+    {
+
+    }
+    else(b)
+    {
+
+    }
+}
+
+2 **3 **2 =512 right to left
+Math fun- ceil(),floor(),round()
